@@ -1,163 +1,1454 @@
 {
-	"goods": [{
-		"title": "Игровая приставка Sony PlayStation 4 Pro",
-		"price": 33990,
-		"sale": false,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
-		"category": "Игровая приставка"
-	}, {
-		"title": "Игровая приставка Sony PlayStation 3 Super Slim",
-		"price": 16499,
-		"sale": true,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1027495663.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1028469540.jpg",
-		"category": "Игровая приставка"
-	}, {
-		"title": "Игровая приставка Xbox One X",
-		"price": 39990,
-		"sale": false,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1024358491.jpg",
-		"category": "Игровая приставка"
-	}, {
-		"title": "Игровая приставка Xbox One S",
-		"price": 23411,
-		"sale": true,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1024822131.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1024822128.jpg",
-		"category": "Игровая приставка"
-	}, {
-		"title": "Игровая приставка Nintendo Switch",
-		"price": 24751,
-		"sale": false,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1021386685.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1026072683.jpg",
-		"category": "Игровая приставка"
-	}, {
-		"title": "Игровая приставка Sega Retro Genesis HD",
-		"price": 3624,
-		"sale": true,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1024928305.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1024928306.jpg",
-		"category": "Игровая приставка"
-	}, {
-		"title": "Игровая приставка Dendy Junior",
-		"price": 1551,
-		"sale": true,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1021877092.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1021877092.jpg",
-		"category": "Игровая приставка"
-	}, {
-		"title": "Игровая приставка Sony PlayStation Classic",
-		"price": 10445,
-		"sale": false,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1025222877.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/102538227.jpg",
-		"category": "Игровая приставка"
-	}, {
-		"title": "Клавиатура Logitech Wireless Keyboard K360",
-		"price": 2390,
-		"sale": false,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1015518726.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/102518725.jpg",
-		"category": "Периферия для ПК"
-	}, {
-		"title": "Клавиатура Defender Element HB-195",
-		"price": 566,
-		"sale": true,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1028488609.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1028488611.jpg",
-		"category": "Периферия для ПК"
-	}, {
-		"title": "Игровая клавиатура Steelseries Apex M750- RU",
-		"price": 12848,
-		"sale": true,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1027006299.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1027006301.jpg",
-		"category": "Периферия для ПК"
-	}, {
-		"title": "Мышь + коврик A4Tech Bloody V7M+B-071",
-		"price": 1649,
-		"sale": false,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1026202934.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1026202933.jpg",
-		"category": "Периферия для ПК"
-	}, {
-		"title": "Мышь Trust Varo",
-		"price": 1097,
-		"sale": true,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1025117257.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1025117012.jpg",
-		"category": "Периферия для ПК"
-	}, {
-		"title": "Мышь Genius DX-120",
-		"price": 350,
-		"sale": false,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1014472326.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1014472325.jpg",
-		"category": "Периферия для ПК"
-	}, {
-		"title": "Коврик для мыши Orico MPA9040",
-		"price": 1279,
-		"sale": true,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1026748248.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1026748250.jpg",
-		"category": "Периферия для ПК"
-	}, {
-		"title": "Коврик для мыши Trust GXT 760 Glide RGB",
-		"price": 4959,
-		"sale": false,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1025053907.jpg",
-		"category": "Периферия для ПК"
-	}, {
-		"title": "Метро: Исход",
-		"price": 1479,
-		"sale": true,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1026951535.jpg",
-		"category": "Игры и софт"
-	}, {
-		"title": "Darksiders III. Коллекционное издание",
-		"price": 3990,
-		"sale": false,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1023840682.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1023849642.jpg",
-		"category": "Игры и софт"
-	}, {
-		"title": "Mortal Kombat X",
-		"price": 1076,
-		"sale": false,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1011627377.jpg",
-		"category": "Игры и софт"
-	}, {
-		"title": "Microsoft Windows 10 Home (32/64-bit)",
-		"price": 9412,
-		"sale": false,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1013975751.jpg",
-		"hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1013975799.jpg",
-		"category": "Игры и софт"
-	}, {
-		"title": "1С:Предприятие 8.3. Версия для обучения программированию",
-		"price": 560,
-		"sale": true,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1015773076.jpg",
-		"category": "Игры и софт"
-	}, {
-		"title": "ABBYY FotoTranslate",
-		"price": 805,
-		"sale": false,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1001559725.jpg",
-		"category": "Игры и софт"
-	}, {
-		"title": "Destiny (Xbox 360)",
-		"price": 723,
-		"sale": true,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1021419099.jpg",
-		"category": "Игры и софт"
-	}, {
-		"title": "Игра Onrush (PS4 Sony)",
-		"price": 1794,
-		"sale": true,
-		"img": "https://cdn1.ozone.ru/multimedia/c400/1023547851.jpg",
-		"category": "Игры и софт"
-	}]
+  "goods": [
+    {
+      "id": 0,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 1,
+      "title": "Игровая приставка Sony PlayStation 3 Super Slim",
+      "price": 16499,
+      "sale": true,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1027495663.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1028469540.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 2,
+      "title": "Игровая приставка Xbox One X",
+      "price": 39990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1024358491.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 3,
+      "title": "Игровая приставка Xbox One S",
+      "price": 23411,
+      "sale": true,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1024822131.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1024822128.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 4,
+      "title": "Игровая приставка Nintendo Switch",
+      "price": 24751,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1021386685.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1026072683.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 5,
+      "title": "Игровая приставка Sega Retro Genesis HD",
+      "price": 3624,
+      "sale": true,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1024928305.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1024928306.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 6,
+      "title": "Игровая приставка Dendy Junior",
+      "price": 1551,
+      "sale": true,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1021877092.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1021877092.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 7,
+      "title": "Игровая приставка Sony PlayStation Classic",
+      "price": 10445,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1025222877.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/102538227.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 8,
+      "title": "Клавиатура Logitech Wireless Keyboard K360",
+      "price": 2390,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1015518726.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/102518725.jpg",
+      "category": "Периферия для ПК"
+    },
+    {
+      "id": 9,
+      "title": "Клавиатура Defender Element HB-195",
+      "price": 566,
+      "sale": true,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1028488609.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1028488611.jpg",
+      "category": "Периферия для ПК"
+    },
+    {
+      "id": 10,
+      "title": "Игровая клавиатура Steelseries Apex M750- RU",
+      "price": 12848,
+      "sale": true,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1027006299.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1027006301.jpg",
+      "category": "Периферия для ПК"
+    },
+    {
+      "id": 11,
+      "title": "Мышь + коврик A4Tech Bloody V7M+B-071",
+      "price": 1649,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1026202934.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1026202933.jpg",
+      "category": "Периферия для ПК"
+    },
+    {
+      "id": 12,
+      "title": "Мышь Trust Varo",
+      "price": 1097,
+      "sale": true,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1025117257.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1025117012.jpg",
+      "category": "Периферия для ПК"
+    },
+    {
+      "id": 13,
+      "title": "Мышь Genius DX-120",
+      "price": 350,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1014472326.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1014472325.jpg",
+      "category": "Периферия для ПК"
+    },
+    {
+      "id": 14,
+      "title": "Коврик для мыши Orico MPA9040",
+      "price": 1279,
+      "sale": true,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1026748248.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1026748250.jpg",
+      "category": "Периферия для ПК"
+    },
+    {
+      "id": 15,
+      "title": "Коврик для мыши Trust GXT 760 Glide RGB",
+      "price": 4959,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1025053907.jpg",
+      "category": "Периферия для ПК"
+    },
+    {
+      "id": 16,
+      "title": "Метро: Исход",
+      "price": 1479,
+      "sale": true,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1026951535.jpg",
+      "category": "Игры и софт"
+    },
+    {
+      "id": 17,
+      "title": "Darksiders III. Коллекционное издание",
+      "price": 3990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1023840682.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1023849642.jpg",
+      "category": "Игры и софт"
+    },
+    {
+      "id": 18,
+      "title": "Mortal Kombat X",
+      "price": 1076,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1011627377.jpg",
+      "category": "Игры и софт"
+    },
+    {
+      "id": 19,
+      "title": "Microsoft Windows 10 Home (32/64-bit)",
+      "price": 9412,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1013975751.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1013975799.jpg",
+      "category": "Игры и софт"
+    },
+    {
+      "id": 20,
+      "title": "1С:Предприятие 8.3. Версия для обучения программированию",
+      "price": 560,
+      "sale": true,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1015773076.jpg",
+      "category": "Игры и софт"
+    },
+    {
+      "id": 21,
+      "title": "ABBYY FotoTranslate",
+      "price": 805,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1001559725.jpg",
+      "category": "Игры и софт"
+    },
+    {
+      "id": 22,
+      "title": "Destiny (Xbox 360)",
+      "price": 723,
+      "sale": true,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1021419099.jpg",
+      "category": "Игры и софт"
+    },
+    {
+      "id": 23,
+      "title": "Игра Onrush (PS4 Sony)",
+      "price": 1794,
+      "sale": true,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1023547851.jpg",
+      "category": "Игры и софт"
+    },
+    {
+      "id": 24,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 25,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 26,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 27,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 28,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 29,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 30,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 31,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 32,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 33,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 34,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 35,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 36,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 37,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 38,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 39,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 40,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 41,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 42,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 43,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 44,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 45,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 46,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 47,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 48,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 49,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 50,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 51,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 52,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 53,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 54,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 55,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 56,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 57,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 58,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 59,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 60,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 61,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 62,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 63,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 64,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 65,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 66,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 67,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 68,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 69,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 70,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 71,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 72,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 73,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 74,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 75,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 76,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 77,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 78,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 79,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 80,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 81,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 82,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 83,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 84,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 85,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 86,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 87,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 88,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 89,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 90,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 91,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 92,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 93,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 94,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 95,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 96,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 97,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 98,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 99,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 100,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 101,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 102,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 103,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 104,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 105,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 106,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 107,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 108,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 109,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 110,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 111,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 112,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 113,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 114,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 115,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 116,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 117,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 118,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 119,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 120,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 121,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 122,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 123,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 124,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 125,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 126,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 127,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 128,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 129,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 130,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 131,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 132,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 133,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 134,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 135,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 136,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 137,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 138,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 139,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 140,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 141,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 142,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 143,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 144,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 145,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 146,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 147,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 148,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 149,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 150,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 151,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 152,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 153,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 154,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 155,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 156,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 157,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 158,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 159,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 160,
+      "title": "Игровая приставка Sony PlayStation 4 Pro",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    },
+    {
+      "id": 161,
+      "title": "Новый файл",
+      "price": 33990,
+      "sale": false,
+      "img": "https://cdn1.ozone.ru/multimedia/c400/1033180284.jpg",
+      "hoverImg": "https://cdn1.ozone.ru/multimedia/c400/1033180283.jpg",
+      "category": "Игровая приставка"
+    }
+  ]
 }
